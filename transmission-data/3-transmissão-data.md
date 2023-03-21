@@ -1,0 +1,4 @@
+1. Como transmitir informações de forma mais segura utilizando o conceito de encriptação: a cifra moderna;
+2. Os conceitos de chaves compartilhadas, públicas e privada. Sendo as compartilhadas um sistema de criptografia que mantém a chave entre o emissor e receptor da mensagem, ou seja, a mesma chave é utilizada para encriptar e desencriptar a mensagem ou arquivo; Já a chave pública funciona em conjunto com a privada, e atua como uma assinatura digital, ela pode ser compartilhada; Por outro lado, a chave privada é mantida em segredo e utilizada para desencriptar as mensagens ou arquivos autenticados pela chave pública;
+3. Como a encriptação simétrica e assimétrica usam essas chaves para decifrar as mensagens de forma prática e segura;
+4. A implementar essas funcionalidades dentro do Node com o módulo crypto.
